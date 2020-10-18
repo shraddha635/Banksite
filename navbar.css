@@ -1,0 +1,35 @@
+
+  #navbar {
+  overflow: hidden;
+  height: 5000px;
+  background-color: #071a3d;
+  height: 50px;
+  font-size: 30px;
+}
+  #navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+
+  
+  
+}
+.hello{
+  margin-left: 900px;
+}
+.hello:hover {
+  background-color: black;
+
+}
+.bye{
+  margin-left: 60px;
+}
+.bye:hover{
+  background-color: black;
+}
+.hi:hover{
+  background-color: black;
+}
